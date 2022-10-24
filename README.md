@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kantholtz
+- 👀 I’m interested in text mining with neural networks
+- 🌱 I’m currently combining neural reasoning models with large pre-trained language models
+- 📫 You can reach me [via mail](mailto:felix@hamann.xyz)
