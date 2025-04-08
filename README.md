@@ -1,4 +1,4 @@
 - Hi, I’m @kantholtz
 - I’m interested in text mining with neural networks
-- At the moment, I combine neural reasoning models with large pre-trained language models
+- At the moment, I combine neural reasoners with large language models
 - You can reach me [via mail](mailto:felix@hamann.xyz)
